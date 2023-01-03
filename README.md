@@ -1,5 +1,6 @@
 # Arrays-Using-Java
 This repository is on arrays using java.
+
 Programs in this directory-
 
 1. WAP to search an element in an array using binary search (binarysearch.java)
